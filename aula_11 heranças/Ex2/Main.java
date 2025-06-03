@@ -1,5 +1,12 @@
 package Ex2;
 
+/* Crie um programa para calcular o salário dos funcionários de uma
+empresa. O salário é baseado no valor hora e quantidade de horas
+trabalhadas no mês. Porém, para algumas funções existe uma bonificação.
+Para os líderes, o salário é incrementado em 2% e para os gerentes em 5%.
+Desenvolva o diagrama de classe da UML.
+*/
+
 public class Main {
     public static void main(String[] args) {
         Lider lider1 = new Lider();
